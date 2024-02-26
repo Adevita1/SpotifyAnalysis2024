@@ -1,4 +1,6 @@
-Spotify Data Analysis 🎵📊 (INGLISH)
+
+SPOTIFY DATA ANALYSIS 🎵📊 (ENGLISH)
+
 This project aims to analyze the data of your favorite artist on Spotify. The steps below guide you through the process of accessing the Spotify API, extracting the artist's data, and visualizing it.
 
 Step 1: Access the Spotify API
@@ -33,7 +35,9 @@ Now, let's create a table to visualize data about the albums, including their na
 Conclusion 🎉
 By analyzing the data retrieved from Spotify, we gained valuable insights into your favorite artist's music, including their top songs, albums, release dates, and popularity. This analysis can further be extended to explore trends over time, compare with other artists, or delve deeper into specific aspects of their music career. Keep exploring and enjoying the music! 🎵🎉
 
-Análisis de Datos de Spotify 🎵📊 (ESPAÑOL)
+
+ANÁLISIS DE DATOS DE SPOTIFY 🎵📊 (ESPAÑOL)
+
 Este proyecto tiene como objetivo analizar los datos de tu artista favorito en Spotify. Los pasos a continuación te guían a través del proceso de acceder a la API de Spotify, extraer los datos del artista y visualizarlos.
 
 Paso 1: Acceder a la API de Spotify
